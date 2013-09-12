@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Date!</string>
+    <string name="app_name">SMSS</string>
+    <string name="loginActivityTitle">SMSS Spring Mobile Security System</string>
+    <string name="treeViewActivityTitle">Video Channel Selection</string>
+    <string name="showSnapshotActivityTitle">Snapshot...</string>
+    <string name="onMessageActivityTitle">SMSS ALARM</string>
+    <string name="strInputAccHint">account</string>
+    <string name="strAccInputLabel">Acc</string>
+    <string name="strPswInputLabel">Pss</string>
+    <string name="opt_remember">Save Pss</string>
+    <string name="login">Login</string>
+    <!--  	menu itmes    -->
+    <string name="memu_title">SMSS Monitor</string>
+    <string name="home">home</string>
+	<string name="publish">publish</string>
+	<string name="clear">clear</string>
+	<string name="more">exit</string>
+	
+	<string name="alarmText">-- SMSS ALARM --</string>
+    <string name="login_url">http://appschallenge.juzz4.com/api/login</string>
+    <string name="search_url">http://appschallenge.juzz4.com/api/device/search</string>
+    <string name="getSnapshot_url">http://appschallenge.juzz4.com/api/snapshot</string>
+    <string name="cameraControl_url">http://appschallenge.juzz4.com/api/device/control</string> 
+    
+    <!-- c2dm  --> 
+    <string name="main_no_items">No messages</string>
+    <string name="accounts_no_accounts">No accounts</string>
+    <string name="label_account_selector">Select account</string>
+    <string name="menu_accounts">Select account</string>
+    
+</resources>
